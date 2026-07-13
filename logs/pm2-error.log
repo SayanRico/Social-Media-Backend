@@ -1,0 +1,10 @@
+2026-07-14T00:40:55: (node:95540) Warning: Accessing non-existent property 'MongoError' of module exports inside circular dependency
+2026-07-14T00:40:55: (Use `node --trace-warnings ...` to show where the warning was created)
+2026-07-14T00:40:55: (node:95540) [DEP0170] DeprecationWarning: The URL mongodb://sayandhara71_db_user:alchamistX77@ac-kvtu9v8-shard-00-01.zoxuvyi.mongodb.net:27017,ac-kvtu9v8-shard-00-00.zoxuvyi.mongodb.net:27017,ac-kvtu9v8-shard-00-02.zoxuvyi.mongodb.net:27017/?authSource=admin&replicaSet=atlas-u7ol6i-shard-0&ssl=true is invalid. Future versions of Node.js will throw an error.
+2026-07-14T00:40:57: [FCM] Firebase push disabled — configure credentials in Admin → Firebase Settings (database).
+2026-07-14T00:41:00: (node:95871) Warning: Accessing non-existent property 'MongoError' of module exports inside circular dependency
+2026-07-14T00:41:00: (Use `node --trace-warnings ...` to show where the warning was created)
+2026-07-14T00:41:01: (node:95871) [DEP0170] DeprecationWarning: The URL mongodb://sayandhara71_db_user:alchamistX77@ac-kvtu9v8-shard-00-02.zoxuvyi.mongodb.net:27017,ac-kvtu9v8-shard-00-00.zoxuvyi.mongodb.net:27017,ac-kvtu9v8-shard-00-01.zoxuvyi.mongodb.net:27017/?authSource=admin&replicaSet=atlas-u7ol6i-shard-0&ssl=true is invalid. Future versions of Node.js will throw an error.
+2026-07-14T00:41:02: [FCM] Firebase push disabled — configure credentials in Admin → Firebase Settings (database).
+2026-07-14T00:41:48: [AUDIT] failed to write: audit_event validation failed: actorId: Path `actorId` is required.
+2026-07-14T00:41:48: (node:95871) [DEP0044] DeprecationWarning: The `util.isArray` API is deprecated. Please use `Array.isArray()` instead.
